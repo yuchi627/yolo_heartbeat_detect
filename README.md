@@ -9,3 +9,5 @@ Homework title
 3. Cut each heartbeat of Long lead II 
 
 4. Try segmentation by NN
+
+Heartbeat Data : https://drive.google.com/file/d/1ZUJwVRqNDmRXRFwmttGdffDtlMrsJW6N/view?usp=sharing
