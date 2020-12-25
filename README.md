@@ -10,4 +10,8 @@ Homework title
 
 4. Try segmentation by NN
 
-Heartbeat Data : https://drive.google.com/file/d/1ZUJwVRqNDmRXRFwmttGdffDtlMrsJW6N/view?usp=sharing
+Heartbeat Data  
+  image : https://drive.google.com/file/d/1ZUJwVRqNDmRXRFwmttGdffDtlMrsJW6N/view?usp=sharing
+  label_yolo : https://drive.google.com/file/d/1AYAAjic85WFKGgEBixMEe82XzCTzGOVY/view?usp=sharing
+  label_UNet : https://drive.google.com/file/d/1GD5OqgYuyCpKJTE0LIwZqJQzbbxSJid-/view?usp=sharing
+  
